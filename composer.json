@@ -3,6 +3,7 @@
     "description": "build base for meteor and react",
     "type": "project, skelaton",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Prawee Wongsa",
