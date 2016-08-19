@@ -1,0 +1,13 @@
+{
+    "name": "prawee/meteor-react",
+    "description": "build base for meteor and react",
+    "type": "project, skelaton",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "prawee@hotmail.com"
+        }
+    ],
+    "require": {}
+}
