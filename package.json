@@ -1,5 +1,5 @@
 {
-  "name": "meteor-react",
+  "name": "meteor-react-base",
   "version": "1.0.0",
   "description": "Meteor Base with React",
   "license": "MIT",
