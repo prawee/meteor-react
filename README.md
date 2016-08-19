@@ -6,7 +6,7 @@ base for meteor and react  that inspriration from themeteorchef:base
 git clone https://github.com/prawee/meteor-react-base.git <project-name>
 ```
 # Initial setup
-```terminal
+```javascript
 cd <project-name>
 meteor npm install
 ```
