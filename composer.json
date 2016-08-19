@@ -4,7 +4,7 @@
     "type": "project",
     "keywords": ["meteor","react","skelaton"],
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "authors": [
         {
             "name": "Prawee Wongsa",
