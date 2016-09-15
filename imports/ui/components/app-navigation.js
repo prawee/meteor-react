@@ -11,7 +11,7 @@ export class AppNavigation extends Component{
     }
     render() {
         return (
-            <Navbar>
+            <Navbar className="navbar-static-top bs-docs-nav">
                 <Navbar.Header>
                     <Navbar.Brand>
                         <Link to="/">MeteorTricks</Link>
